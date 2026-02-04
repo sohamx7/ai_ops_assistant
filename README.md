@@ -88,7 +88,9 @@ venv\Scripts\activate
 
 ## macOS / Linux
 
-```source venv/bin/activate```
+``` bash
+source venv/bin/activate
+```
 
 ## Install dependencies
 ```bash
@@ -97,13 +99,17 @@ pip install -r requirements.txt
 
 ## Configure environment variables
 
+```bash
 Create a .env file from the example file:
+```
 
 ```cp .env.example .env```
 (Edit .env and add your API keys.)
 
 ## Run the application
-```python main.py```
+```bash
+python main.py
+```
 
 ## Integrated APIs
 
