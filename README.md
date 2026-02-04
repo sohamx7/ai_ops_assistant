@@ -63,6 +63,8 @@ ai_ops_assistant/
 ├── .env.example          # Example environment variables
 ├── README.md             # Project documentation
 └── venv/                 # Virtual environment (not committed)
+```
+
 
 
 
@@ -74,7 +76,6 @@ Follow the steps below to install and run the project locally on your machine.
 ```bash
 git clone <your-github-repository-url>
 cd ai_ops_assistant 
-```
 ## Create a virtual environment
 ```bash python -m venv venv```
 
