@@ -77,7 +77,8 @@ Follow the steps below to install and run the project locally on your machine.
 git clone <your-github-repository-url>
 cd ai_ops_assistant 
 ## Create a virtual environment
-```bash python -m venv venv```
+```bash python -m venv venv
+```
 
 ## Windows
 ```bash
