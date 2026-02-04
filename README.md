@@ -62,7 +62,7 @@ ai_ops_assistant/
 ├── requirements.txt      # Python dependencies
 ├── .env.example          # Example environment variables
 ├── README.md             # Project documentation
-└── venv/                 # Virtual environment (not committed)  
+└── venv/                 # Virtual environment (not committed)  ```
 
 
 ## Installation
