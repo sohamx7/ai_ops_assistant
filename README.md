@@ -43,7 +43,7 @@ The system follows a **Planner – Executor – Verifier** design to avoid monol
 
 ## Folder Structure 
 
-``text
+```text
 ai_ops_assistant/
 │
 ├── agents/
@@ -62,7 +62,8 @@ ai_ops_assistant/
 ├── requirements.txt      # Python dependencies
 ├── .env.example          # Example environment variables
 ├── README.md             # Project documentation
-└── venv/                 # Virtual environment (not committed)  
+└── venv/                 # Virtual environment (not committed)
+
 
 
 ## Installation
